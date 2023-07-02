@@ -16,7 +16,7 @@ The Tom's Jazz School landing page is a static web page designed to showcase the
 
 ## Getting Started
 
-To view the landing page, simply open the [Tom's Jazz School Website]("toms-jazz-school.luizmorato.repl.co") in your preferred web browser.
+To view the landing page, simply open the [Tom's Jazz School Website]("https://luizmorato.github.io/toms-jazz-school/") in your preferred web browser.
 
 ## 🚀 Technologies Used
 
