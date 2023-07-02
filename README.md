@@ -1,6 +1,6 @@
 <img src="https://landing-page-mockup-7udq.vercel.app/images/hero-img.svg">
 
-# 🎵 Tom's Jazz School Landing Page
+# [![pepemusic](https://cdn3.emoji.gg/emojis/8229-pepemusic.gif)](https://emoji.gg/emoji/8229-pepemusic) Tom's Jazz School Landing Page
 
 This is a landing page for Tom's Jazz School project, developed as part of the One Bit Code channel's tutorial. The landing page is built using HTML and CSS.
 
